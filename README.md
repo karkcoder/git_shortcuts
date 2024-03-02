@@ -1,3 +1,4 @@
+```
 #-------------------------------------------------------------
 # Git Alias Commands
 #-------------------------------------------------------------
@@ -26,3 +27,4 @@ alias go="git checkout"
 
 # Untrack Files without deleting them
 alias grmc="git rm -r --cached"
+```
